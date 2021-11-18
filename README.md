@@ -1,2 +1,0 @@
-# AdminBan
-aye
